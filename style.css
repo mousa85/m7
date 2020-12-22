@@ -1,0 +1,84 @@
+body {
+    background-color : #008080;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+header {
+  background-color: black;
+  padding: 1px;
+  text-align: center;
+  font-size: 6px;
+  color: white;
+}
+footer {
+    background-color: black;
+  padding: 1px;
+  text-align: center;
+  font-size: 6px;
+  color: white;
+}
+
+
+
+label {   
+  text-align: center;
+  padding : 10px ;
+  color: #ffffff;
+}
+table {
+  text-align: center;
+  border-collapse: collapse;
+  width: 16%;
+}
+#project {
+  margin: -100px -5px 100px 460px;
+}
+button {
+  background-color: rgb(201, 44, 24);
+  color : rgb(163, 112, 17) ;
+}
+a{
+  text-align: center ; 
+
+}
+
+  
+    .wep {
+      position:relative; 
+        text-align:  left;
+      color: #fff !important;
+      text-transform: uppercase;
+      text-decoration: none;
+      background: #6e0a8d;
+      padding: 10px;
+      border-radius: 5px;
+      display: inline-block;
+      border: none;
+      transition: all 0.4s ease 0s;
+      position:relative; left : 80px; top:2px;
+      }
+      .wep:hover {
+        text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+        transition: all 0.4s ease 0s;
+        }
+      
+
+        .sub {
+            color: #fff !important;
+            position:relative; 
+            text-transform: uppercase;
+            text-decoration: none;
+            background: #4c7adb;
+            top: 0px; 
+            padding: 10px;
+            border-radius: 5px;
+            display: inline-block;
+            font-size: 15px;
+            border: none;
+            }
+            .sub:hover {
+              text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+              transition: all 0.4s ease 0s;
+              }
